@@ -5,7 +5,7 @@
         <h5>Heading Tag5</h5>
         <h6>Heading Tag6</h6>
         <p>Coding skills can open doors to exciting careers</p>
-![image](https://github.com/Srujanareddy05/BasicHTML/assets/147801562/3d0cd60f-011f-485e-ac87-aacf9c6709ca)
+ <a href="https://www.hackerrank.com/" target="_blank"><img src="https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg" height="350px" width="450px"></a>
 <ol>
             <li>Java</li>
             <li>HTML</li>
