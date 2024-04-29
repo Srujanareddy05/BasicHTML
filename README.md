@@ -6,18 +6,42 @@
 ###### Heading Tag6
 Coding skills can open doors to exciting careers
 ![image](https://github.com/Srujanareddy05/BasicHTML/assets/147801562/3d0cd60f-011f-485e-ac87-aacf9c6709ca)
-1.Java
-2.HTML
-3.CSS
-4.Java Script
+<ol>
+            <li>Java</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Java Script</li>
+        </ol>
+        <ul>
+            <li>Heading Tags</li>
+            <li>Paragraph Tag</li>
+            <li>Anchor Tag with href attribute and image tag </li>
+            <li>Ordered List</li>
+            <li>Unordered List</li>
 
- Heading Tags
- Paragraph Tag
- Anchor Tag with href attribute and image tag
- Ordered List
- Unordered List
-####Id	####Name	####College Name	Branch
-1	      Srujana	        ISTS	       CSE-AI
-2	      Chandana	      GRRR	       CSE-DS
-3	      Vinuthna	      CR Reddy	   ECE
+        </ul>
+        <table>
+            <th>Id</th>
+            <th>Name</th>
+            <th>College Name</th>
+            <th>Branch</th>
+            <tr>
+                <td>1</td>
+                <td>Srujana</td>
+                <td>ISTS</td>
+                <td>CSE-AI</td>
 
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Chandana</td>
+                <td>GRRR</td>
+                <td>CSE-DS</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Vinuthna</td>
+                <td>CR Reddy</td>
+                <td>ECE</td>
+            </tr>
+        </table>
