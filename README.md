@@ -21,5 +21,26 @@
         </ul>
         <table>
                 <th>Id</th>
+                <th>Name</th>
+                <th>College Name</th>
+                <th>Branch</th>
+                <tr>
+                        <td>1</td>
+                        <td>Srujana</td>
+                        <td>ISTS</td>
+                        <td>CSE-AI</td>
+                </tr>
+                <tr>
+                        <td>2</td>
+                        <td>Chandana</td>
+                        <td>GRRR</td>
+                        <td>CSE-DS</td>
+                </tr>
+                <tr>
+                        <td>3</td>
+                        <td>Vinuthna</td>
+                        <td>CR-Reddy</td>
+                        <td>ECE</td>
+                </tr>
         </table>
         
